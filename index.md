@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## MLSys/GNNS Call for Research Papers
 
-You can use the [editor on GitHub](https://github.com/gnnsys/gnnsys.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We invite participation in the Graph Neural Networks and Systems Workshop, to be held in conjunction with MLSys 2021.
 
 ### Markdown
 
