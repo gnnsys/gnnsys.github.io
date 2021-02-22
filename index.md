@@ -23,7 +23,7 @@ Through invited talks as well as oral and poster presentations by the participan
 
 **Workshop organizers:** 
 * Xavier Bresson (National University of Singapore)
-* Michael Bronstein from (Imperial College London/Twitter)
+* Michael Bronstein (Imperial College London/Twitter)
 * Stefanie Jegelka (MIT)
 * George Karypis (Univ of Minnesota/AWS ML)
 * Petar Veličković (DeepMind)
@@ -38,7 +38,7 @@ TBD
 * Submissions can be up to 6 pages (not including references).
 * All submissions must be in PDF and follow the the format outlined for [MLSys 2021](https://mlsys.org/Conferences/2021/CallForPapers)
 * Submissions do not have to be anonymized
-* Please submit your paper using the (EasyChair link) (https://easychair.org/conferences/?conf=gnnsys21)
+* Please submit your paper using the [EasyChair link](https://easychair.org/conferences/?conf=gnnsys21)
 
 ## Important Dates
 
