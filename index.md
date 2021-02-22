@@ -1,7 +1,3 @@
-
-
-# MLSys/GNNS Call for Research Papers
-
 We invite participation in the Graph Neural Networks and Systems Workshop, to be held in conjunction with MLSys 2021.
 
 ## Overview
