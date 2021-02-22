@@ -35,5 +35,6 @@ TBD
 * Please submit your paper using the CMT link.
 
 ## Important Dates
-
-TBD
+* Submission Deadline: March 7, 2021
+* Acceptance Notifications: March 15, 2021
+* Workshop: Friday, April 9, 2021
