@@ -21,7 +21,13 @@ Through invited talks as well as oral and poster presentations by the participan
 
 **Dual submissions:** The workshop proceedings will be published on the workshop website, but are considered non-archival for the purposes of dual submissions. We welcome work that has already been published or is under submission to a conference, and publishing at the workshop should not preclude you from submitting to conferences in the future. However, please check any conference policies as well.
 
-**Workshop organizers:** Xavier Bresson (National University of Singapore), Michael Bronstein from (Imperial College London/Twitter), Stefanie Jegelka (MIT), George Karypis (Univ of Minnesota/AWS ML), Petar Veličković (DeepMind), Zheng Zhang (NYU Shanghai/AWS ML)
+**Workshop organizers:** 
+* Xavier Bresson (National University of Singapore)
+* Michael Bronstein from (Imperial College London/Twitter)
+* Stefanie Jegelka (MIT)
+* George Karypis (Univ of Minnesota/AWS ML)
+* Petar Veličković (DeepMind)
+* Zheng Zhang (NYU Shanghai/AWS ML)
 
 **Program Committee:**
 
@@ -35,6 +41,9 @@ TBD
 * Please submit your paper using the (EasyChair link) (https://easychair.org/conferences/?conf=gnnsys21)
 
 ## Important Dates
+
 * Submission Deadline: March 7, 2021
 * Acceptance Notifications: March 15, 2021
 * Workshop: Friday, April 9, 2021
+
+Contact us at <gnnsys21@easychair.org>
