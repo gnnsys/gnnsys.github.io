@@ -42,8 +42,8 @@ TBD
 
 ## Important Dates
 
-* Submission Deadline: March 7, 2021
-* Acceptance Notifications: March 15, 2021
+* Submission Deadline: ~~March 7, 2021~~ March 19, 2021
+* Acceptance Notifications: ~~March 15, 2021~~ March 29, 2021
 * Workshop: Friday, April 9, 2021
 
 Contact us at <gnnsys21@easychair.org>
