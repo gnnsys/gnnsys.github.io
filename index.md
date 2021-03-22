@@ -91,7 +91,7 @@ Through invited talks as well as oral and poster presentations by the participan
 * Simeon Spasov (University of Cambridge)
 * Victor Garcia Satorras (University of Amsterdam)
 * Gilad Yehudai (Weizmann Institute of Science)
-* Tiago Azevedo (University of Cambridge)
+* Tiago Azevedo (Arm ML Research Lab)
 * Komal Teru (McGill University)
 * Tyler Derr (Vanderbilt University)
 * Xiaowen Dong (University of Oxford)
