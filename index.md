@@ -29,8 +29,19 @@ Through invited talks as well as oral and poster presentations by the participan
 * Petar Veličković (DeepMind)
 * Zheng Zhang (NYU Shanghai/AWS ML)
 
-**Program Committee:**
 
+**Keynote speakers:** 
+* Jonathan Godwin (DeepMind)
+* George Karypis (University of Minnesota/AWS ML)
+* Nic Lane (Cambridge)
+* Gianandrea Minneci (Graphcore)
+* Azalia Mirhoseini (Google)
+* Emanuele Rossi (Imperial/Twitter)
+* Savannah Thais (Princeton)
+* Marinka Zitnik (Harvard)
+
+
+**Program Committee:**
 * Adam Lerer (Facebook)
 * Jonathan Godwin (DeepMind)
 * Jinyang Li (NYU)
