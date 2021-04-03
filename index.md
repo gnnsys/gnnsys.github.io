@@ -1,6 +1,6 @@
 We invite participation in the Graph Neural Networks and Systems Workshop, to be held in conjunction with MLSys 2021.
 
-## Overview 
+## <a id="overview"></a> Overview
 
 Graph Neural Networks (GNNs) have emerged as one of the hottest areas of research in the field of machine learning and artificial intelligence. The core idea is to explore the relationships among data samples to learn high-quality node, edge, and graph representations. In just the span of a few years, GNNs have expanded from mostly theoretical and small-scale studies to providing state-of-the-art solutions to many problems arising in diverse application domains. This includes domains that traditionally relied on graph learning (e.g., information retrieval, recommendations, fraud detection, knowledge representation), to science and engineering domains whose underlying data can be naturally represented via graphs (e.g., chemistry, bioinformatics, drug discoveries, material science, physics, circuit design), and to areas of science and engineering that have not traditionally been the domain of graph methods (e.g., computer vision, natural language processing, computer graphics, reinforcement learning).
 
