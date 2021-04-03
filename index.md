@@ -41,7 +41,8 @@ Through invited talks as well as oral and poster presentations by the participan
 * Marinka Zitnik (Harvard)
 
 
-<a id="committee"></a> **Program Committee:** 
+<a id="committee"></a> 
+**Program Committee:** 
 * Adam Lerer (Facebook)
 * Jonathan Godwin (DeepMind)
 * Jinyang Li (NYU)
