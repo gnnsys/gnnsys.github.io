@@ -145,7 +145,7 @@ Through invited talks as well as oral and poster presentations by the participan
 * Youhui Bai, Cheng Li, Zhiqi Lin, Yufei Wu, Youshan Miao, Yunxin Liu and Yinlong Xu, Efficient Data Loader for Fast Sampling-based GNN Training on Large Graphs, <a href="papers/GNNSys21_paper_8.pdf" target = "_blank">link</a>.
 * Dominique Beaini, Saro Passaro, Vincent Létourneau, William L. Hamilton, Gabriele Corso and Pietro Lio, Directional Graph Networks, <a href="papers/GNNSys21_paper_9.pdf" target = "_blank">link</a>.
 * Zhiqiang Xie, Zihao Ye, Minjie Wang, Zheng Zhang and Rui Fan, Graphiler: A Compiler for Graph Neural Networks, <a href="papers/GNNSys21_paper_10.pdf" target = "_blank">link</a>.
-* Xiaoyan Wang and Matthew T. Dearing, Analyzing the Performance of Graph Neural Networks with Pipe Parallelism, <a href="papers/GNNSys21_paper_12.pdf" target = "_blank">link</a>.
+* Matthew T. Dearing and Xiaoyan Wang, Analyzing the Performance of Graph Neural Networks with Pipe Parallelism, <a href="papers/GNNSys21_paper_12.pdf" target = "_blank">link</a>.
 * Alok Tripathy, Katherine Yelick and Aydin Buluc, Reducing Communication in Graph Neural Network Training, <a href="papers/GNNSys21_paper_14.pdf" target = "_blank">link</a>.
 * Yao Xiao, Guixiang Ma, Nesreen K. Ahmed, Theodore L. Willke, Shahin Nazarian and Paul Bogdan, Deep Graph Learning for Program Analysis and System Optimization, <a href="papers/GNNSys21_paper_15.pdf" target = "_blank">link</a>.
 * Loc Hoang, Xuhao Chen, Hochan Lee, Roshan Dathathri, Gurbinder Gill and Keshav Pingali, Effiicent Distribution for Deep Learning on Large Graphs, <a href="papers/GNNSys21_paper_16.pdf" target = "_blank">link</a>.
