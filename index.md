@@ -25,7 +25,7 @@ Through invited talks as well as oral and poster presentations by the participan
 
 <a id="organizers"></a> 
 **Workshop organizers:** 
-* Xavier Bresson (Nanyang Technological University)
+* Xavier Bresson (Nanyang Technological University, Singapore)
 * Michael Bronstein (Imperial College London/Twitter)
 * Stefanie Jegelka (MIT)
 * George Karypis (University of Minnesota/AWS ML)
