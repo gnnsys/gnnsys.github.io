@@ -1,5 +1,16 @@
 We invite participation in the Graph Neural Networks and Systems Workshop, to be held in conjunction with MLSys 2021.
 
+
+## Livestream Information
+
+The workshop will be live-streaming on April 9th 7am-4pm PST, from the MLSys conference website. The schedule and live are available at this address:<br>
+https://mlsys.org/virtual/2021/workshop/1642
+
+You need to register to MLSys to watch the workshop ($25 for students and $100 for others):<br>
+https://mlsys.org/Register/view-registration
+
+
+
 <a id="overview"></a>
 ## Overview
 
