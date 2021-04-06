@@ -140,7 +140,7 @@ Through invited talks as well as oral and poster presentations by the participan
 ## Accepted Papers
 * Chaoyang He, Keshav Balasubramanian, Emir Ceyani, Yu Rong, Peilin Zhao, Junzhou Huang, Murali Annavaram and Salman Avestimehr, FedGraphNN: A Federated Learning System and Benchmark for Graph Neural Networks, <a href="papers/GNNSys21_paper_3.pdf" target = "_blank">link</a>.
 * David Pujol-Perich, José Suárez-Varela, Miquel Ferriol-Galmés, Shihan Xiao, Bo Wu, Albert Cabellos-Aparicio and Pere Barlet-Ros, IGNNITION: A framework for fast prototyping of Graph Neural Networks, <a href="papers/GNNSys21_paper_4.pdf" target = "_blank">link</a>.
-* Shyam Tailor, Felix Opolka, Pietro Lio and Nicholas Lane, Designing Expressive and Hardware-Efficient Graph Neural Network Layers with Adaptive Filters <a href="papers/GNNSys21_paper_5.pdf" target = "_blank">link</a>.
+* Shyam Tailor, Felix Opolka, Pietro Lio and Nicholas Lane, Adaptive Filters and Aggregator Fusion for Efficient Graph Convolutions <a href="papers/GNNSys21_paper_5.pdf" target = "_blank">link</a>.
 * David Pujol-Perich, José Suárez-Varela, Shihan Xiao, Bo Wu, Albert Cabellos-Aparicio and Pere Barlet-Ros, NetXplain: Real-time explainability of Graph Neural Networks applied to Computer Networks  <a href="papers/GNNSys21_paper_7.pdf" target = "_blank">link</a>.
 * Youhui Bai, Cheng Li, Zhiqi Lin, Yufei Wu, Youshan Miao, Yunxin Liu and Yinlong Xu, Efficient Data Loader for Fast Sampling-based GNN Training on Large Graphs, <a href="papers/GNNSys21_paper_8.pdf" target = "_blank">link</a>.
 * Dominique Beaini, Saro Passaro, Vincent Létourneau, William L. Hamilton, Gabriele Corso and Pietro Lio, Directional Graph Networks, <a href="papers/GNNSys21_paper_9.pdf" target = "_blank">link</a>.
