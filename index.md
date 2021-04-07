@@ -48,7 +48,7 @@ Through invited talks as well as oral and poster presentations by the participan
 **Keynote speakers:** 
 * Jonathan Godwin (DeepMind)
 * George Karypis (University of Minnesota/AWS ML)
-* Nic Lane (Cambridge)
+* ‪Nicholas Lane (Cambridge)
 * Gianandrea Minneci (Graphcore)
 * Azalia Mirhoseini (Google)
 * Emanuele Rossi (Imperial/Twitter)
