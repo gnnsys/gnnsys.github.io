@@ -3,7 +3,7 @@ We invite participation in the Graph Neural Networks and Systems Workshop, to be
 
 ## Livestream Information
 
-The workshop will be live-streaming on April 9th 7am-4pm PST, from the MLSys conference website. The schedule and live are available at this address:<br>
+The workshop will be live-streamed on April 9th 7am-4pm PST, from the MLSys conference website. The schedule and live are available at this address:<br>
 <a href="https://mlsys.org/virtual/2021/workshop/1642" target = "_blank">https://mlsys.org/virtual/2021/workshop/1642</a>
 
 You need to register to MLSys to watch the workshop ($25 for students and $100 for others):<br>
@@ -149,19 +149,19 @@ Through invited talks as well as oral and poster presentations by the participan
 
 <a id="papers"></a> 
 ## Accepted Papers
-* Chaoyang He, Keshav Balasubramanian, Emir Ceyani, Yu Rong, Peilin Zhao, Junzhou Huang, Murali Annavaram and Salman Avestimehr, FedGraphNN: A Federated Learning System and Benchmark for Graph Neural Networks, <a href="papers/GNNSys21_paper_3.pdf" target = "_blank">link</a>.
-* David Pujol-Perich, José Suárez-Varela, Miquel Ferriol-Galmés, Shihan Xiao, Bo Wu, Albert Cabellos-Aparicio and Pere Barlet-Ros, IGNNITION: A framework for fast prototyping of Graph Neural Networks, <a href="papers/GNNSys21_paper_4.pdf" target = "_blank">link</a>.
-* Shyam Tailor, Felix Opolka, Pietro Lio and Nicholas Lane, Adaptive Filters and Aggregator Fusion for Efficient Graph Convolutions <a href="papers/GNNSys21_paper_5.pdf" target = "_blank">link</a>.
-* David Pujol-Perich, José Suárez-Varela, Shihan Xiao, Bo Wu, Albert Cabellos-Aparicio and Pere Barlet-Ros, NetXplain: Real-time explainability of Graph Neural Networks applied to Computer Networks  <a href="papers/GNNSys21_paper_7.pdf" target = "_blank">link</a>.
-* Youhui Bai, Cheng Li, Zhiqi Lin, Yufei Wu, Youshan Miao, Yunxin Liu and Yinlong Xu, Efficient Data Loader for Fast Sampling-based GNN Training on Large Graphs, <a href="papers/GNNSys21_paper_8.pdf" target = "_blank">link</a>.
-* Dominique Beaini, Saro Passaro, Vincent Létourneau, William L. Hamilton, Gabriele Corso and Pietro Lio, Directional Graph Networks, <a href="papers/GNNSys21_paper_9.pdf" target = "_blank">link</a>.
-* Zhiqiang Xie, Zihao Ye, Minjie Wang, Zheng Zhang and Rui Fan, Graphiler: A Compiler for Graph Neural Networks, <a href="papers/GNNSys21_paper_10.pdf" target = "_blank">link</a>.
-* Matthew T. Dearing and Xiaoyan Wang, Analyzing the Performance of Graph Neural Networks with Pipe Parallelism, <a href="papers/GNNSys21_paper_12.pdf" target = "_blank">link</a>.
-* Alok Tripathy, Katherine Yelick and Aydin Buluc, Reducing Communication in Graph Neural Network Training, <a href="papers/GNNSys21_paper_14.pdf" target = "_blank">link</a>.
-* Yao Xiao, Guixiang Ma, Nesreen K. Ahmed, Theodore L. Willke, Shahin Nazarian and Paul Bogdan, Deep Graph Learning for Program Analysis and System Optimization, <a href="papers/GNNSys21_paper_15.pdf" target = "_blank">link</a>.
-* Loc Hoang, Xuhao Chen, Hochan Lee, Roshan Dathathri, Gurbinder Gill and Keshav Pingali, Effiicent Distribution for Deep Learning on Large Graphs, <a href="papers/GNNSys21_paper_16.pdf" target = "_blank">link</a>.
-* Qidong Su, Minjie Wang, Da Zheng and Zheng Zhang, Load Balancing for Parallel GNN Training, <a href="papers/GNNSys21_paper_18.pdf" target = "_blank">link</a>.
-* Gustavo Lima de Oliveira, Ricardo Marcondes Marcacini and Maria da Graça Campos Pimentel, Privacy-Preserving Heterogeneous Network Embedding for Clinical Events, <a href="papers/GNNSys21_paper_19.pdf" target = "_blank">link</a>.
+* Chaoyang He, Keshav Balasubramanian, Emir Ceyani, Yu Rong, Peilin Zhao, Junzhou Huang, Murali Annavaram and Salman Avestimehr, FedGraphNN: A Federated Learning System and Benchmark for Graph Neural Networks, <a href="papers/GNNSys21_paper_3.pdf" target = "_blank">paper</a>, <a href="papers/GNNSys21_poster_3.pdf" target = "_blank">poster</a>.
+* David Pujol-Perich, José Suárez-Varela, Miquel Ferriol-Galmés, Shihan Xiao, Bo Wu, Albert Cabellos-Aparicio and Pere Barlet-Ros, IGNNITION: A framework for fast prototyping of Graph Neural Networks, <a href="papers/GNNSys21_paper_4.pdf" target = "_blank">paper</a>, <a href="papers/GNNSys21_poster_4.pdf" target = "_blank">poster</a>.
+* Shyam Tailor, Felix Opolka, Pietro Lio and Nicholas Lane, Adaptive Filters and Aggregator Fusion for Efficient Graph Convolutions <a href="papers/GNNSys21_paper_5.pdf" target = "_blank">paper</a>, <a href="papers/GNNSys21_poster_5.pdf" target = "_blank">poster</a>.
+* David Pujol-Perich, José Suárez-Varela, Shihan Xiao, Bo Wu, Albert Cabellos-Aparicio and Pere Barlet-Ros, NetXplain: Real-time explainability of Graph Neural Networks applied to Computer Networks  <a href="papers/GNNSys21_paper_7.pdf" target = "_blank">paper</a>, <a href="papers/GNNSys21_poster_7.pdf" target = "_blank">poster</a>.
+* Youhui Bai, Cheng Li, Zhiqi Lin, Yufei Wu, Youshan Miao, Yunxin Liu and Yinlong Xu, Efficient Data Loader for Fast Sampling-based GNN Training on Large Graphs, <a href="papers/GNNSys21_paper_8.pdf" target = "_blank">paper</a>, <a href="papers/GNNSys21_poster_8.pdf" target = "_blank">poster</a>.
+* Dominique Beaini, Saro Passaro, Vincent Létourneau, William L. Hamilton, Gabriele Corso and Pietro Lio, Directional Graph Networks, <a href="papers/GNNSys21_paper_9.pdf" target = "_blank">paper</a>, <a href="papers/GNNSys21_poster_9.pdf" target = "_blank">poster</a>.
+* Zhiqiang Xie, Zihao Ye, Minjie Wang, Zheng Zhang and Rui Fan, Graphiler: A Compiler for Graph Neural Networks, <a href="papers/GNNSys21_paper_10.pdf" target = "_blank">paper</a>, <a href="papers/GNNSys21_poster_10.pdf" target = "_blank">poster</a>.
+* Matthew T. Dearing and Xiaoyan Wang, Analyzing the Performance of Graph Neural Networks with Pipe Parallelism, <a href="papers/GNNSys21_paper_12.pdf" target = "_blank">paper</a>, <a href="papers/GNNSys21_poster_12.pdf" target = "_blank">poster</a>.
+* Alok Tripathy, Katherine Yelick and Aydin Buluc, Reducing Communication in Graph Neural Network Training, <a href="papers/GNNSys21_paper_14.pdf" target = "_blank">paper</a>, <a href="papers/GNNSys21_poster_14.pdf" target = "_blank">poster</a>.
+* Yao Xiao, Guixiang Ma, Nesreen K. Ahmed, Theodore L. Willke, Shahin Nazarian and Paul Bogdan, Deep Graph Learning for Program Analysis and System Optimization, <a href="papers/GNNSys21_paper_15.pdf" target = "_blank">paper</a>, <a href="papers/GNNSys21_poster_15.pdf" target = "_blank">poster</a>.
+* Loc Hoang, Xuhao Chen, Hochan Lee, Roshan Dathathri, Gurbinder Gill and Keshav Pingali, Effiicent Distribution for Deep Learning on Large Graphs, <a href="papers/GNNSys21_paper_16.pdf" target = "_blank">paper</a>, <a href="papers/GNNSys21_poster_16.pdf" target = "_blank">poster</a>.
+* Qidong Su, Minjie Wang, Da Zheng and Zheng Zhang, Load Balancing for Parallel GNN Training, <a href="papers/GNNSys21_paper_18.pdf" target = "_blank">paper</a>, <a href="papers/GNNSys21_poster_18.pdf" target = "_blank">poster</a>.
+* Gustavo Lima de Oliveira, Ricardo Marcondes Marcacini and Maria da Graça Campos Pimentel, Privacy-Preserving Heterogeneous Network Embedding for Clinical Events, <a href="papers/GNNSys21_paper_19.pdf" target = "_blank">paper</a>, <a href="papers/GNNSys21_poster_19.pdf" target = "_blank">poster</a>.
 
 
 
